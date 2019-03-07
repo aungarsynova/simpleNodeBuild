@@ -1,0 +1,22 @@
+{
+  "name": "simplenodebuild",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aungarsynova/simpleNodeBuild.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Aisana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aungarsynova/simpleNodeBuild/issues"
+  },
+  "homepage": "https://github.com/aungarsynova/simpleNodeBuild#readme"
+}
